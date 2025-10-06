@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/inferneo/PPP/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/inferneo/PPP/10/Headers -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -fPIC -std=gnu++20 -o CMakeFiles/drill.dir/drill.cpp.o -c /home/inferneo/PPP/10/drill.cpp",
+  "file": "/home/inferneo/PPP/10/drill.cpp"
+},
+{
+  "directory": "/home/inferneo/PPP/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/inferneo/PPP/10/Headers -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -fPIC -std=gnu++20 -o CMakeFiles/drill.dir/Graph.cpp.o -c /home/inferneo/PPP/10/Graph.cpp",
+  "file": "/home/inferneo/PPP/10/Graph.cpp"
+},
+{
+  "directory": "/home/inferneo/PPP/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/inferneo/PPP/10/Headers -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -fPIC -std=gnu++20 -o CMakeFiles/drill.dir/Window.cpp.o -c /home/inferneo/PPP/10/Window.cpp",
+  "file": "/home/inferneo/PPP/10/Window.cpp"
+},
+{
+  "directory": "/home/inferneo/PPP/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/inferneo/PPP/10/Headers -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -fPIC -std=gnu++20 -o CMakeFiles/drill.dir/GUI.cpp.o -c /home/inferneo/PPP/10/GUI.cpp",
+  "file": "/home/inferneo/PPP/10/GUI.cpp"
+},
+{
+  "directory": "/home/inferneo/PPP/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/inferneo/PPP/10/Headers -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -fPIC -std=gnu++20 -o CMakeFiles/drill.dir/Simple_window.cpp.o -c /home/inferneo/PPP/10/Simple_window.cpp",
+  "file": "/home/inferneo/PPP/10/Simple_window.cpp"
+}
+]

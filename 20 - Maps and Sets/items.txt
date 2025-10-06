@@ -1,0 +1,10 @@
+Pratityasamutpada 1 10.00
+Dharma 2 10.00
+Nirvana 3 10.00
+Samadhi 4 9.50
+Dzogchen 5 9.50
+Mahayana 6 9.00
+Shunyata 7 9.50
+Atman 8 8.00
+Prapancha 9 8.00
+Dao 10 10.00

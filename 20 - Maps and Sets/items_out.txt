@@ -1,0 +1,10 @@
+Canon S400	9988	499.95
+horse shoe	99	12.34
+Pratityasamutpada	1	10
+Nirvana	3	10
+Samadhi	4	9.5
+Dzogchen	5	9.5
+Shunyata	7	9.5
+Mahayana	6	9
+Atman	8	8
+Prapancha	9	8
