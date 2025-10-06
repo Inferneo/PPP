@@ -1,3 +1,0 @@
-/home/inferneo/PPP/build/CMakeFiles/drill.dir
-/home/inferneo/PPP/build/CMakeFiles/edit_cache.dir
-/home/inferneo/PPP/build/CMakeFiles/rebuild_cache.dir
