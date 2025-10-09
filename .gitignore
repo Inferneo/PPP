@@ -5,3 +5,5 @@ cmake_install.cmake
 CMakeFiles/
 10 - A Display Model/build/
 10 - A Display Model/CMakeFiles/
+.vscode/
+.cache/clangd/index
